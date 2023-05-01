@@ -5,10 +5,10 @@ do so. Amazon’s stock price will decrease into 2019 and late into 2019 it will
 as demand would rise when stock price lowers. That price increase leads to demand decrease in 2020.
 We will check whether or not that is reflected in our model.
 
-Contributers:
+Contributers:  \
 Kalel Lopez  \
-Anabelle Capois Espinal
-Erik Barraza Cordova
-James Brewer 
-Christopher Endriga
-Layla Wynn
+Anabelle Capois Espinal  \
+Erik Barraza Cordova  \
+James Brewer  \
+Christopher Endriga  \
+Layla Wynn  
