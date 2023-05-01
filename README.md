@@ -6,7 +6,7 @@ as demand would rise when stock price lowers. That price increase leads to deman
 We will check whether or not that is reflected in our model.
 
 Contributers:
-Kalel Lopez \n
+Kalel Lopez  \
 Anabelle Capois Espinal
 Erik Barraza Cordova
 James Brewer 
